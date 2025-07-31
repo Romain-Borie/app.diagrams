@@ -65,7 +65,7 @@
         <mxCell id="89v9vSaK3I57iMDpOqkB-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="89v9vSaK3I57iMDpOqkB-67" target="89v9vSaK3I57iMDpOqkB-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="89v9vSaK3I57iMDpOqkB-67" value="Il reste au moins de 3 jours de CP sur la période N-1" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="89v9vSaK3I57iMDpOqkB-67" value="Il reste au moins 3 jours de CP sur la période N-1" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="550" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="89v9vSaK3I57iMDpOqkB-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="89v9vSaK3I57iMDpOqkB-76" target="89v9vSaK3I57iMDpOqkB-77" edge="1">
