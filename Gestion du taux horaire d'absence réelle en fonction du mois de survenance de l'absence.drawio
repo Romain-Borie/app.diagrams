@@ -1,0 +1,147 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="RAR3-Zfb0S3bIGRGhst3">
+    <mxGraphModel dx="1042" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-44" target="0_JEzP_xQkfxaeEg_tC2-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-44" target="0_JEzP_xQkfxaeEg_tC2-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-44" value="Présence d&#39;un ou de plusieurs évènements" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-48" value="Faux" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-50" value="Vrai" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-50" target="0_JEzP_xQkfxaeEg_tC2-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-54" value="EN COURS" style="dashed=0;html=1;rounded=1;fillColor=#0057D8;strokeColor=#0057D8;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#ffffff" vertex="1" parent="1">
+          <mxGeometry x="510" y="303" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-68" target="0_JEzP_xQkfxaeEg_tC2-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="405" as="sourcePoint" />
+            <mxPoint x="400" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-68" target="0_JEzP_xQkfxaeEg_tC2-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-63" value="FIN" style="dashed=0;html=1;rounded=1;fillColor=#BA3200;strokeColor=#BA3200;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#ffffff" vertex="1" parent="1">
+          <mxGeometry x="225" y="843" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-65" target="0_JEzP_xQkfxaeEg_tC2-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-65" value="Vrai" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-67" value="EN COURS" style="dashed=0;html=1;rounded=1;fillColor=#0057D8;strokeColor=#0057D8;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#ffffff" vertex="1" parent="1">
+          <mxGeometry x="510" y="630" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-68" target="0_JEzP_xQkfxaeEg_tC2-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-68" value="Option des évèments :&lt;br&gt;&lt;a title=&quot;Click here to sort&quot; style=&quot;text-wrap-mode: nowrap; outline: none; color: rgb(51, 51, 51); font-weight: 700; font-family: &amp;quot;segoe ui&amp;quot;, arial, sans-serif;&quot;&gt;Types d&#39;absence&lt;br&gt;en heures&lt;br&gt;réelles&lt;/a&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="502.5" y="355" width="115" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-69" target="0_JEzP_xQkfxaeEg_tC2-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-69" target="0_JEzP_xQkfxaeEg_tC2-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-69" value="Le mois d&#39;un évènements &amp;lt;&amp;gt;&amp;nbsp;&lt;br&gt;MoisPaie" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="502.5" y="680" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-76" value="Vrai" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-76" target="0_JEzP_xQkfxaeEg_tC2-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="920" as="sourcePoint" />
+            <mxPoint x="560" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-92" target="0_JEzP_xQkfxaeEg_tC2-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-92" value="Calcul du taux horaire des absences&lt;br&gt;&amp;nbsp;avec la moyenne pondérée" style="rounded=1;arcSize=9;align=center;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="415" y="990" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-95" value="EN COURS" style="dashed=0;html=1;rounded=1;fillColor=#0057D8;strokeColor=#0057D8;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#ffffff" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="940" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-98" target="0_JEzP_xQkfxaeEg_tC2-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-98" target="0_JEzP_xQkfxaeEg_tC2-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-98" value="&lt;span style=&quot;color: rgb(108, 135, 203); font-family: Consolas, sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;TxHorAbsHrsReellesPlanFixSal&lt;br&gt;= Vrai&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#4C9AFF;rounded=1;arcSize=9;spacingLeft=5;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="415" y="1080" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-108" target="0_JEzP_xQkfxaeEg_tC2-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-108" value="Vrai" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-109" value="&lt;span class=&quot;expr&quot; style=&quot;color: rgb(60, 66, 79); font-family: Consolas, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;codeIdentifier&quot; style=&quot;color: rgb(108, 135, 203); cursor: pointer;&quot;&gt;[(Cumul_BrutAbsence&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(60, 66, 79); font-family: Consolas, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;codeOperator&quot; style=&quot;color: rgb(77, 77, 76); font-family: Consolas, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;color: rgb(60, 66, 79); font-family: Consolas, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;expr&quot; style=&quot;font-family: Consolas, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;codeIdentifier&quot; style=&quot;color: rgb(108, 135, 203); cursor: pointer;&quot;&gt;NbHrsRe&lt;/span&gt;&lt;span class=&quot;codeIdentifier&quot; style=&quot;cursor: pointer;&quot;&gt;&lt;font style=&quot;color: rgb(108, 135, 203);&quot;&gt;ellesMoisSal)]&amp;nbsp;&lt;span class=&quot;codeIdentifier&quot; style=&quot;color: rgb(0, 0, 0); cursor: pointer;&quot;&gt;&lt;font style=&quot;color: rgb(108, 135, 203);&quot;&gt;&lt;font color=&quot;#6c87cb&quot;&gt;Par péri&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;span class=&quot;codeIdentifier&quot; style=&quot;cursor: pointer; color: rgb(108, 135, 203);&quot;&gt;ode d&#39;évènement&lt;/span&gt;&amp;nbsp;* (CS_Evenem&lt;/font&gt;&lt;font style=&quot;color: rgb(108, 135, 203);&quot;&gt;&lt;font style=&quot;color: rgb(108, 135, 203);&quot;&gt;entEnHeuresDuMois +&amp;nbsp;EvenementEnHeuresDuMois)&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;span class=&quot;codeIdentifier&quot; style=&quot;color: rgb(108, 135, 203); cursor: pointer;&quot;&gt;&lt;br&gt;_________________________________________________________________________&lt;br&gt;Total de&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(108, 135, 203); font-family: Consolas, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;CS_EvenementEnHeuresDuMois +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(108, 135, 203); font-family: Consolas, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;EvenementEnHeuresDuMois&lt;/span&gt;" style="rounded=1;arcSize=9;align=center;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="143.13" y="1370" width="833.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-111" value="SUCCESS" style="dashed=0;html=1;rounded=1;fillColor=#008364;strokeColor=#008364;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#ffffff" vertex="1" parent="1">
+          <mxGeometry x="480" y="1460" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-114" target="0_JEzP_xQkfxaeEg_tC2-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-114" value="Faux" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1080" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-116" target="0_JEzP_xQkfxaeEg_tC2-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-116" value="&lt;span style=&quot;color: rgb(108, 135, 203); font-family: Consolas, sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;AbsTxHorHresReellesSal&lt;br&gt;= Vrai&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#4C9AFF;rounded=1;arcSize=9;spacingLeft=5;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="935" y="1260" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-118" value="EN COURS" style="dashed=0;html=1;rounded=1;fillColor=#0057D8;strokeColor=#0057D8;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#ffffff" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1200" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-124" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Remarque&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Lorsque plusieurs évènements sont saisis, les évènements qui&lt;br/&gt;n&#39;ont pas l&#39;option &lt;b&gt;Type d’absence en heures réelles&lt;/b&gt; sont exclus du calcul&lt;br/&gt;final.&lt;/p&gt;&lt;/div&gt;" style="html=1;rounded=1;fillColor=#ffffff;strokeColor=#DFE1E5;fontSize=12;align=left;fontColor=#000000;shadow=1;arcSize=1;whiteSpace=wrap;spacing=20;verticalAlign=top;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="295" width="330" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-232" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_JEzP_xQkfxaeEg_tC2-137" target="0_JEzP_xQkfxaeEg_tC2-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-137" value="Vrai" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-138" value="&lt;span class=&quot;expr&quot; style=&quot;color: rgb(60, 66, 79); font-family: Consolas, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;codeIdentifier&quot; style=&quot;color: rgb(108, 135, 203); cursor: pointer;&quot;&gt;[(Cumul_BrutAbsence&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(60, 66, 79); font-family: Consolas, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;codeOperator&quot; style=&quot;color: rgb(77, 77, 76); font-family: Consolas, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;color: rgb(60, 66, 79); font-family: Consolas, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;expr&quot; style=&quot;text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;codeIdentifier&quot; style=&quot;cursor: pointer; color: rgb(108, 135, 203);&quot;&gt;&lt;font style=&quot;color: rgb(108, 135, 203);&quot;&gt;&lt;font color=&quot;#6c87cb&quot; face=&quot;Consolas, sans-serif&quot;&gt;NbHresReellesMoisSalCPBTP)] Par Période d&#39;évènement *&amp;nbsp;&lt;font style=&quot;color: rgb(108, 135, 203);&quot;&gt;(Nombre d&#39;heures de l&#39;évènement&lt;/font&gt;&lt;font style=&quot;color: rgb(108, 135, 203);&quot;&gt;&lt;font style=&quot;color: rgb(108, 135, 203);&quot;&gt;)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;span class=&quot;codeIdentifier&quot; style=&quot;font-family: Consolas, sans-serif; color: rgb(108, 135, 203); cursor: pointer;&quot;&gt;&lt;br&gt;_________________________________________________________________________&lt;br&gt;Total de Nombre d&#39;heures des évènements&lt;/span&gt;&lt;/span&gt;" style="rounded=1;arcSize=9;align=center;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="643.13" y="1550" width="873.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-139" value="SUCCESS" style="dashed=0;html=1;rounded=1;fillColor=#008364;strokeColor=#008364;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#ffffff" vertex="1" parent="1">
+          <mxGeometry x="995.01" y="1640" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0_JEzP_xQkfxaeEg_tC2-234" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Remarque&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Pour le planning variable, voir si on gère en automatique.&lt;br&gt;&lt;br&gt;Car le nombre d&#39;heures d&#39;un évènement est saisi par l&#39;utilisateur dans la Saisie des éléments, le nombre peut contenir des absences sur le mois en cours et sur un mois différent, dans ce cas on ne peut pas le gérer.&lt;/p&gt;&lt;/div&gt;" style="html=1;rounded=1;fillColor=#ffffff;strokeColor=#DFE1E5;fontSize=12;align=left;fontColor=#000000;shadow=1;arcSize=1;whiteSpace=wrap;spacing=20;verticalAlign=top;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1430" width="330" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
